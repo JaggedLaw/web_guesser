@@ -1,0 +1,10 @@
+curl      1735 charissalawrence  cwd      DIR                1,2       170 8690804 /Users/charissalawrence/Documents/Turing/Module2/web_guesser
+curl      1735 charissalawrence  txt      REG                1,2    147328 4451809 /usr/bin/curl
+curl      1735 charissalawrence  txt      REG                1,2    600832 4825069 /usr/lib/dyld
+curl      1735 charissalawrence  txt      REG                1,2 344748234 8076977 /private/var/db/dyld/dyld_shared_cache_x86_64
+curl      1735 charissalawrence    0u     CHR               16,0   0t71852     625 /dev/ttys000
+curl      1735 charissalawrence    1u     CHR               16,0   0t71852     625 /dev/ttys000
+curl      1735 charissalawrence    2u     CHR               16,0   0t71852     625 /dev/ttys000
+curl      1735 charissalawrence    3u   systm                          0t0         
+curl      1735 charissalawrence    4u    unix 0xed9bb8e5b827229d       0t0         ->0xed9bb8e5b827323d
+curl      1735 charissalawrence    6u    IPv4 0xed9bb8e5b840225d       0t0     TCP 192.168.0.15:49873->198.105.254.23:tram (SYN_SENT)
